@@ -10,6 +10,10 @@ Acesse aqui todos meus conteúdos sobre Selenium e Web Scraping.
 
 [Playlist sobre Selenium: Clique e veja todas vídeo aulas sobre Selenium.](https://www.youtube.com/playlist?list=PLxm8nHbKxiP1PPqIqJPdUel5xC-mz6OZv)
 
+## Projetos Web scraping
+
+| Busca no Google e Buscapé | [Projeto de busca web scraping no google e buscapé por produtos pré definios.](https://github.com/dev-daniel-amorim/WS---Projeto-Google-e-Buscape)  |
+
 <br>
 <hr>
 
