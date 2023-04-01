@@ -14,7 +14,7 @@ Acesse aqui todos meus conteúdos sobre Selenium e Web Scraping.
 
 | Projetos  | Descrição/Link  |
 | --- | --- |
-| Busca no Google e Buscapé | [Projeto de busca web scraping no google e buscapé por produtos pré definios.](https://github.com/dev-daniel-amorim/WS---Projeto-Google-e-Buscape)  |
+| Busca no Google e Buscapé | [Projeto de busca web scraping no google e buscapé por produtos pré definios e ao fmi enviará usando automação web o resultado da busca por email.](https://github.com/dev-daniel-amorim/WS---Projeto-Google-e-Buscape)  |
 
 <br>
 <hr>
