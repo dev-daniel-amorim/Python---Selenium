@@ -14,6 +14,7 @@ Acesse aqui todos meus conteúdos sobre Selenium e Web Scraping.
 
 | Projetos  | Descrição/Link  |
 | --- | --- |
+| Busca Linkedin | [Web scraping no linkedin que salva relatórios .CSV de acordo com filtros.](https://github.com/dev-daniel-amorim/WS-Projeto-Busca-Linkedin/blob/main/README.md)  |
 | Busca no Google e Buscapé | [Projeto de busca web scraping no google e buscapé por produtos pré definidos e ao fim enviará usando automação web, o resultado da busca por email.](https://github.com/dev-daniel-amorim/WS---Projeto-Google-e-Buscape)  |
 
 <br>
