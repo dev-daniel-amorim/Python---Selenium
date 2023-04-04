@@ -2,10 +2,10 @@
 Acesse aqui todos meus conteúdos sobre Selenium e Web Scraping.
 
 ## Tutoriais no Medium:
-| Tutorial    | Descrição/Link  |
-| --- | --- |
-| Introdução (Web scraping I) | [O que é o web scraping, leis, boas práticas e evitando bloqueios.](https://medium.com/@dev.daniel.amorim/python-selenium-web-scraping-i-2754b4fe94cb) |
-| Selenium (web scraping II) | [Vamos realizar nossa primeira automação web com Selenium.](https://medium.com/@dev.daniel.amorim/python-selenium-web-scraping-ii-8a7c20d85c65) |
+| Tutorial    | Descrição/Link  | Notebook/Código da aula |
+| --- | --- | --- |
+| Introdução (Web scraping I) | [O que é o web scraping, leis, boas práticas e evitando bloqueios.](https://medium.com/@dev.daniel.amorim/python-selenium-web-scraping-i-2754b4fe94cb) | --- |
+| Selenium (web scraping II) | [Vamos realizar nossa primeira automação web com Selenium.](https://medium.com/@dev.daniel.amorim/python-selenium-web-scraping-ii-8a7c20d85c65) | [Código da aula](https://github.com/dev-daniel-amorim/Python-Selenium-Aula-II/blob/main/main.py) |
 
 ## Vídeo aulas no Youtube:
 
