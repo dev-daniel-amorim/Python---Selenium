@@ -1,5 +1,5 @@
 # Python - Selenium (Web scraping)
-Acesse aqui todos meus conteúdos sobre Selenium e Web Scraping, disponibilizo material no MEDIUM e vídeos tutoriais relacionados no Youtube.
+Acesse aqui todos meus conteúdos sobre Selenium e Web Scraping, disponibilizo material no MEDIUM e vídeos tutoriais relacionados no YOUTUBE.
 
 | Tutoriais/Títulos    | Descrição/Link Medium  | Links/Vídeos YouTube | Links/Códigos fonte |
 | --- | --- | --- | --- |
