@@ -1,7 +1,6 @@
 # Python - Selenium (Web scraping)
-Acesse aqui todos meus conteúdos sobre Selenium e Web Scraping.
+Acesse aqui todos meus conteúdos sobre Selenium e Web Scraping, disponibilizo material no MEDIUM e vídeos tutoriais relacionados no Youtube.
 
-## Tutoriais no Medium:
 | Tutoriais/Títulos    | Descrição/Link Medium  | Links/Vídeos YouTube | Links/Códigos fonte |
 | --- | --- | --- | --- |
 | Selenium - Web Scraping introdução (Parte I) | [O que é o web scraping, leis, boas práticas e evitando bloqueios.](https://medium.com/@dev.daniel.amorim/python-selenium-web-scraping-i-2754b4fe94cb) | [Vídeo aula](https://youtu.be/Nbr0mB70-MI) | --- |
