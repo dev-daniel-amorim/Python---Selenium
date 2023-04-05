@@ -8,10 +8,10 @@ Acesse aqui todos meus conteúdos sobre Selenium e Web Scraping, disponibilizo m
 
 ## Projetos Web scraping
 Aqui você encontra alguns projetos de web scraping desenvolvido por mim, lembrando que códigos fontes de web scraping tem "data de validade", pois se o site que foi feito a raspagem mudar o código pode parar de funcionar (na data da publicação foi testado e funcionando).
-| Projetos/Títulos  | Links/Descrição | Links/Códigos fonte | 
-| --- | --- | --- |
-| Busca Linkedin | [Web scraping no linkedin que salva buscas em relatório .CSV de acordo com filtros.](https://github.com/dev-daniel-amorim/WS-Projeto-Busca-Linkedin/blob/main/README.md)  | --- |
-| Busca no Google e Buscapé | [Projeto de busca web scraping no google e buscapé por produtos pré definidos e ao fim envia por email o resultado da busca usando automação web.](https://github.com/dev-daniel-amorim/WS---Projeto-Google-e-Buscape)  | --- |
+| Projetos/Títulos  | Links/Descrição | Links/Códigos fonte | Vídeo/Cod. executando |
+| --- | --- | --- | --- |
+| Busca Linkedin | [Web scraping no Linkedin (Clique aqui para ver a descrição do projeto).](https://github.com/dev-daniel-amorim/WS-Projeto-Busca-Linkedin/blob/main/README.md)  | --- | --- |
+| Busca no Google e Buscapé | [Projeto de busca web scraping no google e buscapé por produtos pré definidos e ao fim envia por email o resultado da busca usando automação web.](https://github.com/dev-daniel-amorim/WS---Projeto-Google-e-Buscape)  | --- | --- |
 
 <br>
 <hr>
