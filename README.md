@@ -11,7 +11,7 @@ Aqui você encontra alguns projetos de web scraping desenvolvido por mim, lembra
 | Projetos/Títulos  | Links/Descrição | Links/Códigos fonte | Vídeo/Cod. executando |
 | --- | --- | --- | --- |
 | Busca Linkedin | [Web scraping no Linkedin (Clique aqui para ver a descrição do projeto).](https://github.com/dev-daniel-amorim/WS-Projeto-Busca-Linkedin/blob/main/README.md)  | [Código Python](https://github.com/dev-daniel-amorim/WS-Projeto-Busca-Linkedin/blob/main/main.py) | --- |
-| Busca no Google e Buscapé | [Projeto de busca web scraping no google e buscapé por produtos pré definidos e ao fim envia por email o resultado da busca usando automação web.](https://github.com/dev-daniel-amorim/WS---Projeto-Google-e-Buscape)  | --- | --- |
+| Busca no Google e Buscapé | [Projeto de busca web scraping no google e buscapé por produtos pré definidos e ao fim envia por email o resultado da busca usando automação web.](https://github.com/dev-daniel-amorim/WS---Projeto-Google-e-Buscape)  | [Código Python](https://github.com/dev-daniel-amorim/WS---Projeto-Google-e-Buscape/blob/main/DS-Automacao_web.ipynb) | --- |
 
 <br>
 <hr>
