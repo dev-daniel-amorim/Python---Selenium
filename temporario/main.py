@@ -41,46 +41,63 @@ time.sleep(5)
 #pega o elemento do campo input do google
 input_txt = navegador.find_element(By.XPATH, "/html/body/div[1]/div[3]/form/div[1]/div[1]/div[1]/div/div[2]/input")
 time.sleep(1)
+
 # digita no input o texto
 input_txt.send_keys(minha_busca)
 time.sleep(1)
+
 # envia um ENTER
 input_txt.send_keys(Keys.ENTER)
 time.sleep(2)
 
+# pegando a aba shopping
 aba_shopping = navegador.find_element(By.CSS_SELECTOR, '[data-hveid="CAEQAw"]')
 aba_shopping.click()
 
-# pega cada painel da busca
+# pegar cada painel da busca
 paineis = navegador.find_elements(By.CLASS_NAME, "sh-dgr__gr-auto")
 
 import pandas as pd
+
 # para salvar excel em xlsx talvez seja necessario instalar o módulo: pip install openpyxl
 
-def salvar_csv(lista_itens):
+# criando a funcao salvar_excel
 
-    produtos = pd.DataFrame(lista_itens, columns=["Produto", "Preços", "Link"])
-    produtos.to_excel("lista de preços.xlsx", index=False)
+def salvar_excel(lista_itens):
+    df = pd.DataFrame(lista_itens, columns=['PRODUTO', "PRECO", 'LINK'])
+    df.to_excel("minha busca.xlsx", index=False)
     return
 
+
+# criando a lista_itens vazia
 lista_itens = []
 
+# criando o for
 for item in paineis:
 
+    # pegando preco
     preco = item.find_element(By.CLASS_NAME, "a8Pemb").text
     print(preco)
 
     nome_produto = item.find_element(By.CLASS_NAME, 'tAxDx').text
     print(nome_produto)
 
+    filho = item.find_element(By.CLASS_NAME, "aULzUe")
+    pai = filho.find_element(By.XPATH, "..")
+    link = pai.get_attribute('href')
+    print(link)
+
+    lista_itens.append((nome_produto, preco, link))
+    salvar_excel(lista_itens)
+
+
+    # pegando produto
+
+
     # pegando um elemento pai atraves do filho
-    elem_filho = item.find_element(By.CLASS_NAME, "aULzUe")
-    elem_pai = elem_filho.find_element(By.XPATH, "..")
-    link_produto = elem_pai.get_attribute('href')
-    print(link_produto)
-
-    lista_itens.append((nome_produto, preco, link_produto))
-    salvar_csv(lista_itens)
 
 
+    # append para lista_itens
 
+
+    # chama a funcao salvar_excel passando nossa lista_itens
