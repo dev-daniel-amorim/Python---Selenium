@@ -5,6 +5,7 @@ Acesse aqui todos meus conteúdos sobre Selenium e Web Scraping, disponibilizo m
 | --- | --- | --- | --- |
 | Selenium - Web Scraping introdução (Parte I) | [O que é o web scraping, leis, boas práticas e técnicas para evitar bloqueios.](https://medium.com/@dev.daniel.amorim/python-selenium-web-scraping-i-2754b4fe94cb) | [Vídeo aula](https://youtu.be/Nbr0mB70-MI) | --- |
 | Selenium - Web Scraping (Parte II) | [Selenium, webdriver, conceitos básicos para criar automação web.](https://medium.com/@dev.daniel.amorim/python-selenium-web-scraping-ii-8a7c20d85c65) | [Vídeo aula](https://youtu.be/SdN0VzICR4Y) | [Código da aula](https://github.com/dev-daniel-amorim/Topico-Selenium_e_WS/blob/main/Selenium-A2/main.py) |
+| Selenium - Web Scraping (Parte III) | [Find element, elements, hierarquia HTML e mais.](https://medium.com/@dev.daniel.amorim/selenium-web-scraping-parte-iii-4478a07e0afa) | []() | []() |
 
 ## Projetos Web scraping
 Aqui você encontra alguns projetos de web scraping desenvolvido por mim, lembrando que códigos fontes de web scraping tem "data de validade", pois se o site que foi feito a raspagem mudar o código pode parar de funcionar, mas vocês podem ver o vídeo do funcionamento do projeto na guia "Vídeo/Run".
